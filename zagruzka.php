@@ -10,4 +10,5 @@ echo "Загружаемое изображение '$name'<br><img src='$name'>
 }
 
 echo "<br>";
+echo "<br>";
 ?>
