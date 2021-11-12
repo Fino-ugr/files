@@ -9,4 +9,5 @@ move_uploaded_file($_FILES['filename']['tmp_name'], $name);
 echo "Загружаемое изображение '$name'<br><img src='$name'>";
 }
 
+echo "<br>";
 ?>
